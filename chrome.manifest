@@ -1,0 +1,2 @@
+content tabnew chrome/content/
+overlay chrome://komodo/content/komodo.xul chrome://tabnew/content/tabnew.xul
